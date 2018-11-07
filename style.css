@@ -1,0 +1,119 @@
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Muli', sans-serif;*/
+
+body {
+  font-family: 'Muli', sans-serif;
+  background: rgb(134, 64, 52);
+  color: rgb(86, 40, 33);
+  line-height: 30px;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif
+  font-weight: lighter;
+  color: rgb(47, 58, 65);
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif
+  font-weight: lighter;
+  color: rgb(47, 58, 65);
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif
+  font-weight: lighter;
+  color: rgb(86, 40, 33)
+}
+
+a {
+  text-decoration: none;
+  color: rgb(137, 51, 23);
+  font-size: 18px;
+}
+
+ul {
+  padding: 0px;
+}
+
+li {
+  list-style-type: none;
+}
+
+a:hover {
+  font-size: 20px;
+  line-height: 0.9;
+}
+
+em {
+  font-style: normal;
+  font-weight: 700;
+}
+
+strong {
+  font-weight: 900;
+}
+
+.container {
+  width: 1150px;   /* This sets the width */
+  margin: 0 auto;
+}
+
+.card {
+  background: rgb(237, 229, 211);
+  margin: 10px 20px;
+  padding: 10px 30px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px rgb(117, 57, 48);
+}
+
+.profil-picture img {
+  border-radius: 50%
+}
+
+.photo-and-bio {
+  display: flex;
+  align-items: center;
+}
+
+.bio {
+  padding-left: 30px;
+}
+
+.lnk-lewagon {
+  font-size: 15px;
+}
+
+.lnk-lewagon:hover {
+  font-size: 17px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.images {
+  margin: auto;
+  padding-bottom: 15px;
+}
+
+.div-logos {
+  background: rgb(237, 229, 211);
+  margin: 10px 20px;
+  padding: 10px 30px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px rgb(117, 57, 48);
+  width: 766.66px;
+}
+
+.div-logos-btm {
+  background: rgb(237, 229, 211);
+  margin: 10px 20px;
+  padding: 10px 30px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px rgb(117, 57, 48);
+  width: 383.33px;
+}
+
+
